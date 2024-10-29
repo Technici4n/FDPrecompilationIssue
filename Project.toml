@@ -1,0 +1,12 @@
+name = "FDPrecompilationIssue"
+uuid = "bd9dabe4-c36d-40b0-a7b1-cfe370e93b37"
+authors = ["Technici4n <13494793+Technici4n@users.noreply.github.com>"]
+version = "0.1.0"
+
+[deps]
+ForwardDiff = "f6369f11-7733-5829-9624-2563aa707210"
+PrecompileTools = "aea7be01-6a6a-4083-8856-8a6e6704d82a"
+
+[compat]
+ForwardDiff = "0.10.36"
+PrecompileTools = "1.2.1"
